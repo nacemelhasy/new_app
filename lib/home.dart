@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-int count = 2;
+int count = 3;
 class Home extends StatefulWidget{
   @override
   State<Home> createState() => _HomeState();
